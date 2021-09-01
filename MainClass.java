@@ -1,3 +1,4 @@
+//By method
 class Triangle{
     double width;
     double height;
